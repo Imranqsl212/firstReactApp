@@ -1,0 +1,11 @@
+.searchInput {
+  border: none;
+  outline: none;
+  opacity: 0.5;
+  color: #626262;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  width: 100%;
+  background-color: transparent;
+}
